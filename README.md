@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-C# Developer in [TSP](thesoftwarepractice.com).
+Currently a C# Developer in [TSP](thesoftwarepractice.com).
 
 - 🌱 I’m currently learning [Svelte](https://github.com/sveltejs/kit), [Gemini](https://sites.google.com/view/devfest-singapore-2024/), [Windows Forms](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-8.0)
 - 💬 Ask me about janestreet-puzzles, Quantum Computing
